@@ -342,7 +342,7 @@ li {
   font-size: 32px;
   line-height: 44px;
   text-align: center;
-  color: #000000;
+  color: #000;
 }
 
 form {
@@ -355,20 +355,20 @@ form {
 #name,
 #email,
 #text {
-   width: 100%;
+  width: 100%;
 }
 
 .label_name,
 .label_email,
 .label_message {
-    padding: 0 10vw;
+  padding: 0 10vw;
 }
 
 #name,
 #email {
-    border-top: none;
+  border-top: none;
   border-left: none;
-    border-right: none;
+  border-right: none;
   border-color: #d3d0cf;
   height: 7vh;
 }
@@ -376,7 +376,7 @@ form {
 #text {
   background-color: cornsilk;
   border: none;
-    padding-top: 2vh;
+  padding-top: 2vh;
   padding-left: 1vw;
 }
 
@@ -387,12 +387,12 @@ form {
 }
 
 #submit {
-    width: 131px;
+  width: 131px;
   height: 48px;
   background: #ff6d04;
-    color: white;
+  color: white;
   font-family: "Crete Round", serif;
   font-style: normal;
   font-size: 17px;
   line-height: 24px;
- }
+}
